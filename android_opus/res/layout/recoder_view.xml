@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+    <Button
+        android:id="@+id/start"
+        android:layout_centerVertical="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="start" />
+
+    <Button
+        android:id="@+id/stop"
+        android:layout_below="@id/start"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="stop" />
+</RelativeLayout>

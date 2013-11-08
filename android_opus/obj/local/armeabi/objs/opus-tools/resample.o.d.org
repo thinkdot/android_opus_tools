@@ -1,0 +1,111 @@
+obj/local/armeabi/objs/opus-tools/resample.o: \
+ jni/opus-tools/src/resample.c \
+ jni/speex/include/../include/speex/speex_resampler.h \
+ jni/speex/include/speex/speex_types.h \
+ jni/speex/include/speex/speex_config_types.h jni/opus-tools/src/arch.h \
+ jni/speex/include/../include/speex/speex_types.h \
+ jni/speex/libspeex/fixed_generic.h jni/opus-tools/src/os_support.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/string.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/cdefs.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/cdefs_elf.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/android/api-level.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/malloc.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/stdio.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/_types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/_types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/stdint.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/posix_types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/stddef.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/compiler.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/asm/posix_types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/asm/types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/kernel.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/sysmacros.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/stdlib.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/alloca.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/strings.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/memory.h \
+ jni/opus-tools/src/stack_alloc.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/math.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/limits.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/limits.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/limits.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/internal_types.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/limits.h \
+ D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/syslimits.h
+
+jni/speex/include/../include/speex/speex_resampler.h:
+
+jni/speex/include/speex/speex_types.h:
+
+jni/speex/include/speex/speex_config_types.h:
+
+jni/opus-tools/src/arch.h:
+
+jni/speex/include/../include/speex/speex_types.h:
+
+jni/speex/libspeex/fixed_generic.h:
+
+jni/opus-tools/src/os_support.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/string.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/cdefs.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/cdefs_elf.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/android/api-level.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/malloc.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/stdio.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/_types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/_types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/stdint.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/posix_types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/stddef.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/compiler.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/asm/posix_types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/asm/types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/kernel.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/sysmacros.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/stdlib.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/alloca.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/strings.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/memory.h:
+
+jni/opus-tools/src/stack_alloc.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/math.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/limits.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/limits.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/linux/limits.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/internal_types.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/machine/limits.h:
+
+D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include/sys/syslimits.h:

@@ -1,0 +1,4 @@
+set solib-search-path ./obj/local/armeabi
+directory D:/software/android-ndk-r8b/platforms/android-5/arch-arm/usr/include jni/gsm/src jni/ogg/src jni/opus jni/opus-tools/src jni/speex/libspeex D:/software/android-ndk-r8b/sources/cxx-stl/system D:/software/android-ndk-r8b/samples/libventrilo3 jni/ventrilo
+file obj/local/armeabi/app_process
+target remote :5039
